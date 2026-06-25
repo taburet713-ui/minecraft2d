@@ -7,7 +7,7 @@ source.include_exts = py,png,jpg,kv
 
 version = 1.0
 
-requirements = python3,kivy,pygame
+requirements = python3,pygame
 
 orientation = landscape
 fullscreen = 1
